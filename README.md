@@ -1,0 +1,2 @@
+# literarium
+ The main objective of our project is to implement a Multi User Website in which Students have an access to Digital Library with an option to purchase the book from the available list or read the book available in Online PDF’s by downloading it and Lecturers/Professors have an additional access to add or remove books in the cart alongside with purchasing the book and reading the book.
