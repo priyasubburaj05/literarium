@@ -12,8 +12,13 @@ A Home page with product catalog
 
 
 
+
+
 SIGN UP PAGE
+
 ![image](https://user-images.githubusercontent.com/82087114/154797441-90d9132a-6a3d-46ca-9294-d4a4c90c2230.png)
+
+
 
 
 
@@ -24,8 +29,12 @@ ADMIN PAGE
 
 
 
+
+
 ADDING NEW PDF BY ADMIN
 ![image](https://user-images.githubusercontent.com/82087114/154797452-8b70f4ae-fde6-4b66-b307-f121ab2e58b9.png)
+
+
 
 
 
@@ -36,8 +45,14 @@ PAGE FOR ORGANIZING PROJECTS
 
 
 
+
+
 BOOK STORE PAGE
 ![image](https://user-images.githubusercontent.com/82087114/154797474-5eae6996-2084-475d-b1d2-8c3dd2dba3f7.png)
+
+
+
+
 
 
 
@@ -48,8 +63,12 @@ BOOK DESCRIPTION PAGE
 
 
 
+
+
 CART PAGE
 ![image](https://user-images.githubusercontent.com/82087114/154797554-9c4f6bb5-1726-48d2-8560-062b1746379f.png)
+
+
 
 
 
@@ -58,5 +77,7 @@ PAYMENT PAGE
 ![image](https://user-images.githubusercontent.com/82087114/154797562-41eae044-dc32-4562-8971-6e4b21772eee.png)
 
 
-----------------------------------------------------------------------------THE END----------------------------------------------------------------------------------------------
+
+
+----------------------------------------------THE END--------------------------------------------------------
 
